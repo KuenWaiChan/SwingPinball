@@ -1,0 +1,2 @@
+Triangle t1 0 0
+Triangle t2 0 0

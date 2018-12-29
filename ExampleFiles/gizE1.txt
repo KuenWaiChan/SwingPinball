@@ -1,0 +1,803 @@
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.2.5\lib\idea_rt.jar=64387:C:\Program Files\JetBrains\IntelliJ IDEA 2017.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Work Items\University\CS3O8\gizmoball\output\production\Gizmoball1" Model.util.DefaultInstructions
+Triangle 0 0 0
+Rotate 0
+Triangle 1 0 1
+Rotate 1
+Triangle 2 0 2
+Rotate 2
+Triangle 3 0 3
+Rotate 3
+Triangle 4 0 4
+Rotate 4
+Triangle 5 0 5
+Rotate 5
+Triangle 6 0 6
+Rotate 6
+Triangle 7 0 7
+Rotate 7
+Triangle 8 0 8
+Rotate 8
+Triangle 9 0 9
+Rotate 9
+Triangle 10 0 10
+Rotate 10
+Triangle 11 0 11
+Rotate 11
+Triangle 12 0 12
+Rotate 12
+Triangle 13 0 13
+Rotate 13
+Triangle 14 0 14
+Rotate 14
+Triangle 15 0 15
+Rotate 15
+Triangle 16 0 16
+Rotate 16
+Triangle 17 0 17
+Rotate 17
+Triangle 18 0 18
+Rotate 18
+Triangle 19 0 19
+Rotate 19
+Triangle 20 1 0
+Rotate 20
+Triangle 21 1 1
+Rotate 21
+Triangle 22 1 2
+Rotate 22
+Triangle 23 1 3
+Rotate 23
+Triangle 24 1 4
+Rotate 24
+Triangle 25 1 5
+Rotate 25
+Triangle 26 1 6
+Rotate 26
+Triangle 27 1 7
+Rotate 27
+Triangle 28 1 8
+Rotate 28
+Triangle 29 1 9
+Rotate 29
+Triangle 30 1 10
+Rotate 30
+Triangle 31 1 11
+Rotate 31
+Triangle 32 1 12
+Rotate 32
+Triangle 33 1 13
+Rotate 33
+Triangle 34 1 14
+Rotate 34
+Triangle 35 1 15
+Rotate 35
+Triangle 36 1 16
+Rotate 36
+Triangle 37 1 17
+Rotate 37
+Triangle 38 1 18
+Rotate 38
+Triangle 39 1 19
+Rotate 39
+Triangle 40 2 0
+Rotate 40
+Triangle 41 2 1
+Rotate 41
+Triangle 42 2 2
+Rotate 42
+Triangle 43 2 3
+Rotate 43
+Triangle 44 2 4
+Rotate 44
+Triangle 45 2 5
+Rotate 45
+Triangle 46 2 6
+Rotate 46
+Triangle 47 2 7
+Rotate 47
+Triangle 48 2 8
+Rotate 48
+Triangle 49 2 9
+Rotate 49
+Triangle 50 2 10
+Rotate 50
+Triangle 51 2 11
+Rotate 51
+Triangle 52 2 12
+Rotate 52
+Triangle 53 2 13
+Rotate 53
+Triangle 54 2 14
+Rotate 54
+Triangle 55 2 15
+Rotate 55
+Triangle 56 2 16
+Rotate 56
+Triangle 57 2 17
+Rotate 57
+Triangle 58 2 18
+Rotate 58
+Triangle 59 2 19
+Rotate 59
+Triangle 60 3 0
+Rotate 60
+Triangle 61 3 1
+Rotate 61
+Triangle 62 3 2
+Rotate 62
+Triangle 63 3 3
+Rotate 63
+Triangle 64 3 4
+Rotate 64
+Triangle 65 3 5
+Rotate 65
+Triangle 66 3 6
+Rotate 66
+Triangle 67 3 7
+Rotate 67
+Triangle 68 3 8
+Rotate 68
+Triangle 69 3 9
+Rotate 69
+Triangle 70 3 10
+Rotate 70
+Triangle 71 3 11
+Rotate 71
+Triangle 72 3 12
+Rotate 72
+Triangle 73 3 13
+Rotate 73
+Triangle 74 3 14
+Rotate 74
+Triangle 75 3 15
+Rotate 75
+Triangle 76 3 16
+Rotate 76
+Triangle 77 3 17
+Rotate 77
+Triangle 78 3 18
+Rotate 78
+Triangle 79 3 19
+Rotate 79
+Triangle 80 4 0
+Rotate 80
+Triangle 81 4 1
+Rotate 81
+Triangle 82 4 2
+Rotate 82
+Triangle 83 4 3
+Rotate 83
+Triangle 84 4 4
+Rotate 84
+Triangle 85 4 5
+Rotate 85
+Triangle 86 4 6
+Rotate 86
+Triangle 87 4 7
+Rotate 87
+Triangle 88 4 8
+Rotate 88
+Triangle 89 4 9
+Rotate 89
+Triangle 90 4 10
+Rotate 90
+Triangle 91 4 11
+Rotate 91
+Triangle 92 4 12
+Rotate 92
+Triangle 93 4 13
+Rotate 93
+Triangle 94 4 14
+Rotate 94
+Triangle 95 4 15
+Rotate 95
+Triangle 96 4 16
+Rotate 96
+Triangle 97 4 17
+Rotate 97
+Triangle 98 4 18
+Rotate 98
+Triangle 99 4 19
+Rotate 99
+Triangle 100 5 0
+Rotate 100
+Triangle 101 5 1
+Rotate 101
+Triangle 102 5 2
+Rotate 102
+Triangle 103 5 3
+Rotate 103
+Triangle 104 5 4
+Rotate 104
+Triangle 105 5 5
+Rotate 105
+Triangle 106 5 6
+Rotate 106
+Triangle 107 5 7
+Rotate 107
+Triangle 108 5 8
+Rotate 108
+Triangle 109 5 9
+Rotate 109
+Triangle 110 5 10
+Rotate 110
+Triangle 111 5 11
+Rotate 111
+Triangle 112 5 12
+Rotate 112
+Triangle 113 5 13
+Rotate 113
+Triangle 114 5 14
+Rotate 114
+Triangle 115 5 15
+Rotate 115
+Triangle 116 5 16
+Rotate 116
+Triangle 117 5 17
+Rotate 117
+Triangle 118 5 18
+Rotate 118
+Triangle 119 5 19
+Rotate 119
+Triangle 120 6 0
+Rotate 120
+Triangle 121 6 1
+Rotate 121
+Triangle 122 6 2
+Rotate 122
+Triangle 123 6 3
+Rotate 123
+Triangle 124 6 4
+Rotate 124
+Triangle 125 6 5
+Rotate 125
+Triangle 126 6 6
+Rotate 126
+Triangle 127 6 7
+Rotate 127
+Triangle 128 6 8
+Rotate 128
+Triangle 129 6 9
+Rotate 129
+Triangle 130 6 10
+Rotate 130
+Triangle 131 6 11
+Rotate 131
+Triangle 132 6 12
+Rotate 132
+Triangle 133 6 13
+Rotate 133
+Triangle 134 6 14
+Rotate 134
+Triangle 135 6 15
+Rotate 135
+Triangle 136 6 16
+Rotate 136
+Triangle 137 6 17
+Rotate 137
+Triangle 138 6 18
+Rotate 138
+Triangle 139 6 19
+Rotate 139
+Triangle 140 7 0
+Rotate 140
+Triangle 141 7 1
+Rotate 141
+Triangle 142 7 2
+Rotate 142
+Triangle 143 7 3
+Rotate 143
+Triangle 144 7 4
+Rotate 144
+Triangle 145 7 5
+Rotate 145
+Triangle 146 7 6
+Rotate 146
+Triangle 147 7 7
+Rotate 147
+Triangle 148 7 8
+Rotate 148
+Triangle 149 7 9
+Rotate 149
+Triangle 150 7 10
+Rotate 150
+Triangle 151 7 11
+Rotate 151
+Triangle 152 7 12
+Rotate 152
+Triangle 153 7 13
+Rotate 153
+Triangle 154 7 14
+Rotate 154
+Triangle 155 7 15
+Rotate 155
+Triangle 156 7 16
+Rotate 156
+Triangle 157 7 17
+Rotate 157
+Triangle 158 7 18
+Rotate 158
+Triangle 159 7 19
+Rotate 159
+Triangle 160 8 0
+Rotate 160
+Triangle 161 8 1
+Rotate 161
+Triangle 162 8 2
+Rotate 162
+Triangle 163 8 3
+Rotate 163
+Triangle 164 8 4
+Rotate 164
+Triangle 165 8 5
+Rotate 165
+Triangle 166 8 6
+Rotate 166
+Triangle 167 8 7
+Rotate 167
+Triangle 168 8 8
+Rotate 168
+Triangle 169 8 9
+Rotate 169
+Triangle 170 8 10
+Rotate 170
+Triangle 171 8 11
+Rotate 171
+Triangle 172 8 12
+Rotate 172
+Triangle 173 8 13
+Rotate 173
+Triangle 174 8 14
+Rotate 174
+Triangle 175 8 15
+Rotate 175
+Triangle 176 8 16
+Rotate 176
+Triangle 177 8 17
+Rotate 177
+Triangle 178 8 18
+Rotate 178
+Triangle 179 8 19
+Rotate 179
+Triangle 180 9 0
+Rotate 180
+Triangle 181 9 1
+Rotate 181
+Triangle 182 9 2
+Rotate 182
+Triangle 183 9 3
+Rotate 183
+Triangle 184 9 4
+Rotate 184
+Triangle 185 9 5
+Rotate 185
+Triangle 186 9 6
+Rotate 186
+Triangle 187 9 7
+Rotate 187
+Triangle 188 9 8
+Rotate 188
+Triangle 189 9 9
+Rotate 189
+Triangle 190 9 10
+Rotate 190
+Triangle 191 9 11
+Rotate 191
+Triangle 192 9 12
+Rotate 192
+Triangle 193 9 13
+Rotate 193
+Triangle 194 9 14
+Rotate 194
+Triangle 195 9 15
+Rotate 195
+Triangle 196 9 16
+Rotate 196
+Triangle 197 9 17
+Rotate 197
+Triangle 198 9 18
+Rotate 198
+Triangle 199 9 19
+Rotate 199
+Triangle 200 10 0
+Rotate 200
+Triangle 201 10 1
+Rotate 201
+Triangle 202 10 2
+Rotate 202
+Triangle 203 10 3
+Rotate 203
+Triangle 204 10 4
+Rotate 204
+Triangle 205 10 5
+Rotate 205
+Triangle 206 10 6
+Rotate 206
+Triangle 207 10 7
+Rotate 207
+Triangle 208 10 8
+Rotate 208
+Triangle 209 10 9
+Rotate 209
+Triangle 210 10 10
+Rotate 210
+Triangle 211 10 11
+Rotate 211
+Triangle 212 10 12
+Rotate 212
+Triangle 213 10 13
+Rotate 213
+Triangle 214 10 14
+Rotate 214
+Triangle 215 10 15
+Rotate 215
+Triangle 216 10 16
+Rotate 216
+Triangle 217 10 17
+Rotate 217
+Triangle 218 10 18
+Rotate 218
+Triangle 219 10 19
+Rotate 219
+Triangle 220 11 0
+Rotate 220
+Triangle 221 11 1
+Rotate 221
+Triangle 222 11 2
+Rotate 222
+Triangle 223 11 3
+Rotate 223
+Triangle 224 11 4
+Rotate 224
+Triangle 225 11 5
+Rotate 225
+Triangle 226 11 6
+Rotate 226
+Triangle 227 11 7
+Rotate 227
+Triangle 228 11 8
+Rotate 228
+Triangle 229 11 9
+Rotate 229
+Triangle 230 11 10
+Rotate 230
+Triangle 231 11 11
+Rotate 231
+Triangle 232 11 12
+Rotate 232
+Triangle 233 11 13
+Rotate 233
+Triangle 234 11 14
+Rotate 234
+Triangle 235 11 15
+Rotate 235
+Triangle 236 11 16
+Rotate 236
+Triangle 237 11 17
+Rotate 237
+Triangle 238 11 18
+Rotate 238
+Triangle 239 11 19
+Rotate 239
+Triangle 240 12 0
+Rotate 240
+Triangle 241 12 1
+Rotate 241
+Triangle 242 12 2
+Rotate 242
+Triangle 243 12 3
+Rotate 243
+Triangle 244 12 4
+Rotate 244
+Triangle 245 12 5
+Rotate 245
+Triangle 246 12 6
+Rotate 246
+Triangle 247 12 7
+Rotate 247
+Triangle 248 12 8
+Rotate 248
+Triangle 249 12 9
+Rotate 249
+Triangle 250 12 10
+Rotate 250
+Triangle 251 12 11
+Rotate 251
+Triangle 252 12 12
+Rotate 252
+Triangle 253 12 13
+Rotate 253
+Triangle 254 12 14
+Rotate 254
+Triangle 255 12 15
+Rotate 255
+Triangle 256 12 16
+Rotate 256
+Triangle 257 12 17
+Rotate 257
+Triangle 258 12 18
+Rotate 258
+Triangle 259 12 19
+Rotate 259
+Triangle 260 13 0
+Rotate 260
+Triangle 261 13 1
+Rotate 261
+Triangle 262 13 2
+Rotate 262
+Triangle 263 13 3
+Rotate 263
+Triangle 264 13 4
+Rotate 264
+Triangle 265 13 5
+Rotate 265
+Triangle 266 13 6
+Rotate 266
+Triangle 267 13 7
+Rotate 267
+Triangle 268 13 8
+Rotate 268
+Triangle 269 13 9
+Rotate 269
+Triangle 270 13 10
+Rotate 270
+Triangle 271 13 11
+Rotate 271
+Triangle 272 13 12
+Rotate 272
+Triangle 273 13 13
+Rotate 273
+Triangle 274 13 14
+Rotate 274
+Triangle 275 13 15
+Rotate 275
+Triangle 276 13 16
+Rotate 276
+Triangle 277 13 17
+Rotate 277
+Triangle 278 13 18
+Rotate 278
+Triangle 279 13 19
+Rotate 279
+Triangle 280 14 0
+Rotate 280
+Triangle 281 14 1
+Rotate 281
+Triangle 282 14 2
+Rotate 282
+Triangle 283 14 3
+Rotate 283
+Triangle 284 14 4
+Rotate 284
+Triangle 285 14 5
+Rotate 285
+Triangle 286 14 6
+Rotate 286
+Triangle 287 14 7
+Rotate 287
+Triangle 288 14 8
+Rotate 288
+Triangle 289 14 9
+Rotate 289
+Triangle 290 14 10
+Rotate 290
+Triangle 291 14 11
+Rotate 291
+Triangle 292 14 12
+Rotate 292
+Triangle 293 14 13
+Rotate 293
+Triangle 294 14 14
+Rotate 294
+Triangle 295 14 15
+Rotate 295
+Triangle 296 14 16
+Rotate 296
+Triangle 297 14 17
+Rotate 297
+Triangle 298 14 18
+Rotate 298
+Triangle 299 14 19
+Rotate 299
+Triangle 300 15 0
+Rotate 300
+Triangle 301 15 1
+Rotate 301
+Triangle 302 15 2
+Rotate 302
+Triangle 303 15 3
+Rotate 303
+Triangle 304 15 4
+Rotate 304
+Triangle 305 15 5
+Rotate 305
+Triangle 306 15 6
+Rotate 306
+Triangle 307 15 7
+Rotate 307
+Triangle 308 15 8
+Rotate 308
+Triangle 309 15 9
+Rotate 309
+Triangle 310 15 10
+Rotate 310
+Triangle 311 15 11
+Rotate 311
+Triangle 312 15 12
+Rotate 312
+Triangle 313 15 13
+Rotate 313
+Triangle 314 15 14
+Rotate 314
+Triangle 315 15 15
+Rotate 315
+Triangle 316 15 16
+Rotate 316
+Triangle 317 15 17
+Rotate 317
+Triangle 318 15 18
+Rotate 318
+Triangle 319 15 19
+Rotate 319
+Triangle 320 16 0
+Rotate 320
+Triangle 321 16 1
+Rotate 321
+Triangle 322 16 2
+Rotate 322
+Triangle 323 16 3
+Rotate 323
+Triangle 324 16 4
+Rotate 324
+Triangle 325 16 5
+Rotate 325
+Triangle 326 16 6
+Rotate 326
+Triangle 327 16 7
+Rotate 327
+Triangle 328 16 8
+Rotate 328
+Triangle 329 16 9
+Rotate 329
+Triangle 330 16 10
+Rotate 330
+Triangle 331 16 11
+Rotate 331
+Triangle 332 16 12
+Rotate 332
+Triangle 333 16 13
+Rotate 333
+Triangle 334 16 14
+Rotate 334
+Triangle 335 16 15
+Rotate 335
+Triangle 336 16 16
+Rotate 336
+Triangle 337 16 17
+Rotate 337
+Triangle 338 16 18
+Rotate 338
+Triangle 339 16 19
+Rotate 339
+Triangle 340 17 0
+Rotate 340
+Triangle 341 17 1
+Rotate 341
+Triangle 342 17 2
+Rotate 342
+Triangle 343 17 3
+Rotate 343
+Triangle 344 17 4
+Rotate 344
+Triangle 345 17 5
+Rotate 345
+Triangle 346 17 6
+Rotate 346
+Triangle 347 17 7
+Rotate 347
+Triangle 348 17 8
+Rotate 348
+Triangle 349 17 9
+Rotate 349
+Triangle 350 17 10
+Rotate 350
+Triangle 351 17 11
+Rotate 351
+Triangle 352 17 12
+Rotate 352
+Triangle 353 17 13
+Rotate 353
+Triangle 354 17 14
+Rotate 354
+Triangle 355 17 15
+Rotate 355
+Triangle 356 17 16
+Rotate 356
+Triangle 357 17 17
+Rotate 357
+Triangle 358 17 18
+Rotate 358
+Triangle 359 17 19
+Rotate 359
+Triangle 360 18 0
+Rotate 360
+Triangle 361 18 1
+Rotate 361
+Triangle 362 18 2
+Rotate 362
+Triangle 363 18 3
+Rotate 363
+Triangle 364 18 4
+Rotate 364
+Triangle 365 18 5
+Rotate 365
+Triangle 366 18 6
+Rotate 366
+Triangle 367 18 7
+Rotate 367
+Triangle 368 18 8
+Rotate 368
+Triangle 369 18 9
+Rotate 369
+Triangle 370 18 10
+Rotate 370
+Triangle 371 18 11
+Rotate 371
+Triangle 372 18 12
+Rotate 372
+Triangle 373 18 13
+Rotate 373
+Triangle 374 18 14
+Rotate 374
+Triangle 375 18 15
+Rotate 375
+Triangle 376 18 16
+Rotate 376
+Triangle 377 18 17
+Rotate 377
+Triangle 378 18 18
+Rotate 378
+Triangle 379 18 19
+Rotate 379
+Triangle 380 19 0
+Rotate 380
+Triangle 381 19 1
+Rotate 381
+Triangle 382 19 2
+Rotate 382
+Triangle 383 19 3
+Rotate 383
+Triangle 384 19 4
+Rotate 384
+Triangle 385 19 5
+Rotate 385
+Triangle 386 19 6
+Rotate 386
+Triangle 387 19 7
+Rotate 387
+Triangle 388 19 8
+Rotate 388
+Triangle 389 19 9
+Rotate 389
+Triangle 390 19 10
+Rotate 390
+Triangle 391 19 11
+Rotate 391
+Triangle 392 19 12
+Rotate 392
+Triangle 393 19 13
+Rotate 393
+Triangle 394 19 14
+Rotate 394
+Triangle 395 19 15
+Rotate 395
+Triangle 396 19 16
+Rotate 396
+Triangle 397 19 17
+Rotate 397
+Triangle 398 19 18
+Rotate 398
+Triangle 399 19 19
+Rotate 399
+
+Process finished with exit code 0
